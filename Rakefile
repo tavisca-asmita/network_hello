@@ -1,6 +1,6 @@
 #!/usr/bin/ruby -wKU
 
-desc "Print reminder about eating more fruit."
+desc "Print Reminder."
 task :default => :run
 
 task :run do
